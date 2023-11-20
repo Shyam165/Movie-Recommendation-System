@@ -54,10 +54,16 @@ Develop a movie recommendation system that takes a user's input movie and provid
 - Bz2file
 
 ## Project Snapshots
+Snapshot 1:
+![Screenshot 2023-11-20 202147](https://github.com/Shyam165/Movie-Recommendation-System/assets/111563134/7fb03d59-387a-43ff-9cd6-11bbc1b80eec)
+
+Snapshot 2:
+![Screenshot 2023-11-20 202244](https://github.com/Shyam165/Movie-Recommendation-System/assets/111563134/df49f370-3a9c-4331-83d1-e9d1fbeb269b)
+
 
 ## Deployment
 
-The project is deployed on Streamlit Cloud: https://movie-recommendation-system-8to7ehstruocbkyetgrutr.streamlit.app/
+The project is deployed on Streamlit Cloud(Project link): https://movie-recommendation-system-8to7ehstruocbkyetgrutr.streamlit.app/
 
 ## How to Contribute
 If you'd like to contribute to the project, follow these steps:
