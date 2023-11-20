@@ -39,18 +39,19 @@ Develop a movie recommendation system that takes a user's input movie and provid
 
 1. Run the Streamlit app:
 
+   ```bash
    streamlit run app.py
    
 2. Open your web browser and go to http://localhost:8501 to use the Movie Recommendation System.
 
 ## Dependencies
 
-Python 3.x
-Streamlit
-Requests
-Pandas
-Pillow
-Bz2file
+- Python 3.x
+- Streamlit
+- Requests
+- Pandas
+- Pillow
+- Bz2file
 
 ## Project Snapshots
 
